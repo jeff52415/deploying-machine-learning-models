@@ -1,4 +1,4 @@
-NAME=jeff-udemy-ml-api
+NAME=secure-eyrie-70599
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
